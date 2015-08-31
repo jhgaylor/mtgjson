@@ -1,3 +1,5 @@
+Atmosphere wrapper around [freeall/mtgjson](https://github.com/freeall/mtgjson)
+
 # mtgjson
 
 Fetches AllSets.json from http://mtgjson.com and caches it so you are always sure to have the newest version.
