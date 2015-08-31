@@ -1,0 +1,1 @@
+MTGjson = Npm.require('mtgjson');

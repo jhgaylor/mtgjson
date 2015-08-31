@@ -1,4 +1,4 @@
-Atmosphere wrapper around [freeall/mtgjson](https://github.com/freeall/mtgjson)
+Meteor wrapper around [freeall/mtgjson](https://github.com/freeall/mtgjson)
 
 # mtgjson
 
